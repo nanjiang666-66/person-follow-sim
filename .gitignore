@@ -1,0 +1,11 @@
+build/
+install/
+log/
+.cache/
+__pycache__/
+*.pyc
+records/
+third_party/
+*.bag
+*.db3
+*.mcap

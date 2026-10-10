@@ -1,0 +1,10 @@
+{
+  "ros_distribution": "humble",
+  "simulator": "Gazebo Classic 11",
+  "following_repository": "https://github.com/open-navigation/opennav_docking.git",
+  "following_branch": "humble",
+  "source_fallback_commit": "9d7819a214495f395f5a06244129728cbaed2bc8",
+  "verified_on": "2026-10-03",
+  "binary_policy": "Prefer released Humble packages and record installed versions; fallback source is pinned.",
+  "desired_distance_m": 1.5
+}

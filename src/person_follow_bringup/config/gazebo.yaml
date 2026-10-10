@@ -1,0 +1,5 @@
+gazebo:
+  ros__parameters:
+    # Gazebo's default 10 Hz clock can trail 50 Hz odometry by nearly 0.1 s.
+    # Publish at 100 Hz in simulation time to stay within the 0.05 s future guard.
+    publish_rate: 100.0
